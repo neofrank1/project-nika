@@ -1,0 +1,20 @@
+.navbar {
+  box-shadow: 0 6px 10px rgba(0, 0, 0, 0.15);
+  background-color: #fa8072;
+}
+.body {
+  background-color: deepskyblue;
+}
+.footer {
+  background-color: seagreen;
+  border-radius: 8px 8px 0 0;
+}
+.jumbotron {
+  background-image: url("./images/299435320_5440222356027649_9122136666513007234_n.jpg");
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: center center;
+}
+.card {
+  box-shadow: 10px 10px 5px 0px rgba(0, 0, 0, 0.15);
+}
